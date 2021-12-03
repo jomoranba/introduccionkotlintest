@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntroduccionKotlin</string>
+    <string name="hint_breed">Raza</string>
+    <string name="hint_gender">Sexo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="btn_adopt">Adoptar</string>
+</resources>
